@@ -2,6 +2,7 @@
 
 I'm a PhD student in NLP at [MBZUAI](https://mbzuai.ac.ae/), building systems that automatically verify the factual accuracy of large language models. My work spans factuality evaluation, iterative fact-checking, and machine-generated text detection. Here are some of my publications:
 
+- **MedSNIP**: Building and Benchmarking Snippet-Level Granularity for Medical Fact Verification. *EMNLP 2026* \[[link](https://aclanthology.org/2026.emnlp-main.483/)\]
 - **OpenFactCheck**: A Unified Framework for Factuality Evaluation of LLMs. *EMNLP 2024.* \[[link](https://aclanthology.org/2024.emnlp-demo.23/)\]
 - **OpenFactCheck**: Building, Benchmarking Customized Fact-Checking Systems and Evaluating the Factuality of Claims and LLMs. *COLING 2025.* \[[link](https://aclanthology.org/2025.coling-main.755/)\]
 - **FIRE**: Fact-checking with Iterative Retrieval and Verification. *NAACL 2025.* \[[link](https://aclanthology.org/2025.findings-naacl.158/)\]
